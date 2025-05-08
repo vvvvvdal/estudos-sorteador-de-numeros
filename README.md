@@ -1,6 +1,8 @@
 # 🎛 Sorteador de Números
 ## Um jogo simples que sorteia números aleatórios dentro de um intervalo definido pelo usuário.
 
+Jogue aqui 👉: https://estudossorteador-de-numeros.vercel.app/
+
 - O jogador escolhe uma quantidade de números para serem sorteados e um intervalo de números (mínimo e máximo).
 - A quantidade de números deve ser maior ou igual a 1 (somente quantidades inteiras) e menor ou igual ao número máximo.
 - O jogo utiliza JavaScript em: funções, condições (if/else), loops (for e while), listas de armazenamento (arrays), manipulação de elementos do HTML com DOM (Document Object Model) e manipulação do CSS com listas de classes (classList).

@@ -9,4 +9,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![Screenshot_6](https://github.com/user-attachments/assets/b1c0152f-3323-49c7-8415-6b4f25e02b85)
+<a href="https://estudossorteador-de-numeros.vercel.app/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/b1c0152f-3323-49c7-8415-6b4f25e02b85" alt="Screenshot do Sorteador de Números">
+</a>
